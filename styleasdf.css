@@ -1,0 +1,19 @@
+body{
+    background: blue;
+    background-image: url();
+}
+header{
+    text-align: center;
+}
+.foto{
+    border-radius: 50%;
+    width: 100px;
+}
+.pagina{
+    border-radius: 0%;
+    width: 200px;
+}
+.text{
+    width: 600px;
+    height: 100px;
+}
